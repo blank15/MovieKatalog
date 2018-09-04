@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".View.Fragment.SettingFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:text="@string/pilih_bahasa" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bahasa_indonesia"
+        android:id="@+id/button_indonesia"
+        android:layout_marginTop="16dp"
+        style="@style/Base.Widget.AppCompat.Button.Colored"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bahasa_inggris"
+        android:id="@+id/button_inggris"
+        android:layout_marginTop="16dp"
+        style="@style/Base.Widget.AppCompat.Button.Colored"/>
+</LinearLayout>

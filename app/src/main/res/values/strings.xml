@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movie Katalog</string>
+
+    <string name="cari">Cari</string>
+    <string name="nama_movie">Nama Movie</string>
+    <string name="text_deksripsi">Text Deksripsi</string>
+    <string name="title_activity_detail_movie">DetailMovie</string>
+    <string name="tgl_rilis">Tanggal rilis</string>
+    <string name="rating">Rating</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="masukkan_kata_kunci">Enter Keywords</string>
+    <string name="setting">Setting</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="playing">Now Playing</string>
+    <string name="katalog_movie">Movie Catalog</string>
+    <string name="bahasa_indonesia">Indonesian</string>
+    <string name="bahasa_inggris">English</string>
+    <string name="pilih_bahasa">Select a language </string>
+    <string name="favorite">Favorite</string>
+    <string name="textview">Textview</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="empty_text">NO DATA</string>
+</resources>
